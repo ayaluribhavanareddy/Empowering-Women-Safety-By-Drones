@@ -28,7 +28,7 @@ To set up the project locally, follow these steps:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/drone-patrolling-system.git
+git clone https://github.com/ayaluribhavanareddy/Empowering-Women-Safety-By-Drones.git
 Navigate to the project directory:
 bash
 Copy code
